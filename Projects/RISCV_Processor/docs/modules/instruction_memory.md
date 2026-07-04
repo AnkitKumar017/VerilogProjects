@@ -81,3 +81,5 @@ Memory depth:
 1024 words
 
 Each instruction is 32 bits.
+
+
